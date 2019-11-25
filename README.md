@@ -67,12 +67,11 @@
   - CS, 언어, 프레임워크 등의 개념을 학습하며 정리
 - [Problem Solving](https://github.com/skyil7/Problem-Solving)
   - 아래 사이트에서 제공하는 알고리즘 문제 풀이
-  - [매일프로그래밍](http://mailprogramming.com/)
-  - [SW Expert Acardemy](https://swexpertacademy.com/main/main.do)
-  - [백준 온라인 저지](https://www.acmicpc.net/)
-  - [프로그래머스](https://programmers.co.kr/learn/)
+    - [매일프로그래밍](http://mailprogramming.com/)
+    - [SW Expert Acardemy](https://swexpertacademy.com/main/main.do)
+    - [백준 온라인 저지](https://www.acmicpc.net/)
+    - [프로그래머스](https://programmers.co.kr/learn/)
 
 ## 외부
 
-- Blog : https://batboy118.github.io
 - Email : 118jjh@naver.com
