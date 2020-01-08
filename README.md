@@ -29,9 +29,6 @@
 
 - **_C/C++_**
 - Python (배우는 중)
-- Java (배우는 중)
-- Java Script (배우는 중)
-- Kotlin (배울 예정)
 
 ### 프레임워크
 
