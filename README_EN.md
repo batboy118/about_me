@@ -11,35 +11,36 @@
 
 ## Education
 
-- Chungju High School, Korea, Feb 2010
+- Chungju High School, Korea,  Feb 2010
 - Kyenghee University, Korea, Bachelor of Electronic Engineering, Feb 2018
 
 ## Work Experience
 
-- Republic of Korea Air Force , Obligatory military service (2012.12 - 2014.12)
+-  Republic of Korea Air Force ,  Obligatory military service (2012.12 - 2014.12) 
 - SEMES, Electrical Engineer (2018.01 - 2019.09)
 
-## Overseas Experience
+## Overseas Experience 
 
-- San Jose, CA (2011.07 - 2012.06)
+ - San Jose, CA (2011.07 - 2012.06)
 
 ## Skill
 
 ### Programming Language
 
-- **_C/C++_**
+- ***C/C++***
 - Python (Learning)
 
 ### Framework
+
 
 ### Language
 
 - Korean, Native Speaker
 - English, Intermediate
 
-### Cooperation
+### Cooperation 
 
-- Github (할예정)
+ - Github (할예정)
 
 ## Programming
 
@@ -62,6 +63,8 @@
     - [BOJ](https://www.acmicpc.net/)
     - [Programmers](https://programmers.co.kr/learn/)
 
-## Link
+## Link 
 
+- Blog : https://batboy118.github.io
 - Email : 118jjh@naver.com
+
