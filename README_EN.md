@@ -4,11 +4,6 @@
 
 > 한글로 보고 싶다면 [여기](https://github.com/batboy118/About-Me/blob/master/README.md)를 클릭 하세요.
 
-## Hello!
-
-개발이 하고싶어 하던일 때려치우고, 개발자라는 새로운 도전을하는 조준형입니다.  
-백엔드 개발을 잘하는 인공지능 개발자로 성장하고 싶습니다!
-
 ## Education
 
 - Chungju High School, Korea, Feb 2010
@@ -63,5 +58,4 @@
     - [Programmers](https://programmers.co.kr/learn/)
 
 ## Link
-
 - Email : 118jjh@naver.com
