@@ -30,21 +30,19 @@
 **독학**
 - 알고리즘
 - 자료구조
+- 운영체제
 
 ## 기술
 ### 프로그래밍 언어
-- ***C/C++***
+- C/C++
+- JavaScript
+- Ruby
 - Python (배우는 중)
 
 ### 협업
  - Github
 ## 개발
 ### 프로젝트
-- 42
-  - `C Piscine`
-  - `libft`
-  - `get_next_line`
-  - `ft_printf`
 
 ### 학습
 - [Study_Note](https://github.com/batboy118/Study_Note)
@@ -54,7 +52,5 @@
     - [SW Expert Acardemy](https://swexpertacademy.com/main/main.do)
     - [백준 온라인 저지](https://www.acmicpc.net/)
     - [프로그래머스](https://programmers.co.kr/learn/)
-## 외부
-- Email : 118jjh@naver.com
-- Blog : [BATBOY](https://batboy118.github.io/)
-
+## Email
+- 118jjh@naver.com
