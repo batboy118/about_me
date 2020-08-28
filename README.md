@@ -2,26 +2,30 @@
 
 안녕하세요! 프로그래밍과 평생을 함께하고 싶은 예비 개발자 조준형 입니다.
 
+전자공학을 전공하고 반도체 장비 회사에 1년 9개월 정도 전기 회로 설계업무를 하다가 고민 끝에 개발자의 길에 도전하고 있습니다.
+
 - 현재 개발공부를 하면서 개발자로 변신하는 중입니다.😎
 
-- 저의 생각을 코드로 옮겨 새로운 가치를 창출하는 일을 좋아합니다.
+- 저의 생각을 코드로 옮겨 새로운 가치를 창출하는 재밌는 일이라면 무엇이든 좋습니다.
 
 - 여러 분야에 관심이 있지만, 현재는 웹 개발을 중점적으로 학습하고 있습니다.
 
 ---
 
-⭐ `aboutMe` : **NULL**
+#### 😀 I am
 
-⭐ `Blog`        :  https://velog.io/@batboy118
+- a [42Seoul](https://42seoul.kr) cadet from 2020.01 to 2022.02.
+- a [Boostcamp](https://boostcamp.connect.or.kr) camper from 2020.07 to 2020.12.
+- interested in Web & AI service.
+- in love with Javascript, C++, Python.
 
-⭐ `Email`      :  118jjh@naver.com or 118jjh@gmail.com
+---
 
-~~⭐ `Youtube`~~
+⭐ [`about Me`](https://velog.io/@batboy118/about)
 
+⭐ [`Blog`](https://velog.io/@batboy118)
 
-## 💾 대표 저장소
+⭐ `Portfolio`   **(WORKING ON IT)**
 
-- [Study_Note](https://github.com/batboy118/Study_Note) : CS, 언어, 프레임워크 등의 개념을 학습하며 정리하는 공간
-- [Problem Solving](https://github.com/skyil7/Problem-Solving) : 알고리즘 문제 풀이 코드
-- [Odds-And-Ends](https://github.com/batboy118/Odds-And-Ends) : 개인적으로 자주쓰는 코드들을 정리
-- [42Seoul](https://github.com/batboy118/42_seoul) : 42Seoul에서 진행한 프로젝트
+⭐ `Email` :  118jjh@naver.com / 118jjh@gmail.com
+
