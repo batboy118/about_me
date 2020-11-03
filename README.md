@@ -14,10 +14,9 @@
 
 #### 😀 I am
 
-- a [42Seoul](https://42seoul.kr) cadet from 2020.01 to 2022.02.
-- a [Boostcamp](https://boostcamp.connect.or.kr) camper from 2020.07 to 2020.12.
 - interested in Web & AI service.
-- in love with Javascript, C++, Python.
+- in love with Javascript, C++.
+- currently learning Java.
 
 ---
 
